@@ -1596,6 +1596,7 @@
       { "name": "lastplayed", "$ref": "Optional.String" },
       { "name": "originaltitle", "$ref": "Optional.String" },
       { "name": "sorttitle", "$ref": "Optional.String" },
+      { "name": "trailer", "$ref": "Optional.String" },
       { "name": "episodeguide", "$ref": "Optional.String" },
       { "name": "thumbnail", "$ref": "Optional.String" },
       { "name": "fanart", "$ref": "Optional.String" },
